@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2-User Class", "Q2-User Class\Q2-User Class.csproj", "{4755AEAE-655A-45F6-96C5-CA838E32DDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3 - John the Robot", "Q3 - John the Robot\Q3 - John the Robot.csproj", "{0E8BCCA7-3B4B-4961-91DB-F5E9DB684FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4-Alexa Settings", "Q4-Alexa Settings\Q4-Alexa Settings.csproj", "{A6A52C82-EDC6-45EB-ACC6-CC162E35E99A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5 - Method Signature", "Q5 - Method Signature\Q5 - Method Signature.csproj", "{3ACF94DF-9E38-4E06-B7AF-34796B42BE80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q6 - Construction Game", "Q6 - Construction Game\Q6 - Construction Game.csproj", "{45F7EE10-DEA3-4051-8772-AD3FA38055CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1 - Sum of Biggest Neighbor", "Q1 - Sum of Biggest Neighbor\Q1 - Sum of Biggest Neighbor.csproj", "{71756C72-93FE-4125-8228-07D52D26B6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4755AEAE-655A-45F6-96C5-CA838E32DDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4755AEAE-655A-45F6-96C5-CA838E32DDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4755AEAE-655A-45F6-96C5-CA838E32DDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4755AEAE-655A-45F6-96C5-CA838E32DDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8BCCA7-3B4B-4961-91DB-F5E9DB684FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8BCCA7-3B4B-4961-91DB-F5E9DB684FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8BCCA7-3B4B-4961-91DB-F5E9DB684FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8BCCA7-3B4B-4961-91DB-F5E9DB684FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A52C82-EDC6-45EB-ACC6-CC162E35E99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A52C82-EDC6-45EB-ACC6-CC162E35E99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A52C82-EDC6-45EB-ACC6-CC162E35E99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A52C82-EDC6-45EB-ACC6-CC162E35E99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ACF94DF-9E38-4E06-B7AF-34796B42BE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACF94DF-9E38-4E06-B7AF-34796B42BE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACF94DF-9E38-4E06-B7AF-34796B42BE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACF94DF-9E38-4E06-B7AF-34796B42BE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F7EE10-DEA3-4051-8772-AD3FA38055CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F7EE10-DEA3-4051-8772-AD3FA38055CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F7EE10-DEA3-4051-8772-AD3FA38055CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F7EE10-DEA3-4051-8772-AD3FA38055CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71756C72-93FE-4125-8228-07D52D26B6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71756C72-93FE-4125-8228-07D52D26B6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71756C72-93FE-4125-8228-07D52D26B6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71756C72-93FE-4125-8228-07D52D26B6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7975FB59-ED67-4601-83FC-78DCADF4D50F}
+	EndGlobalSection
+EndGlobal
